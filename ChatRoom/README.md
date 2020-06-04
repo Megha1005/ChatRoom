@@ -1,4 +1,3 @@
-# final-project-projectfinal
-final-project-projectfinal created by GitHub Classroom
+Created as a part of CSC-413 Software Development.
 
-This branch consists the backend and frontend code for Login and Signup pages for Chatroom Project
+Used Spark-java for backend, React for frontend, MongoDb for database.
